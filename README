@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5228
+
+Note: If `set clipboard=unnamed` works for you, then there is no need for this.
+
+Keymaps for easy copying, cutting, and pasting between Vim terminal buffer and system clipboard
+
+See https://github.com/NLKNguyen/copy-cut-paste.vim
